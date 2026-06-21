@@ -1,4 +1,3 @@
-````md
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,35:6D28D9,70:7C3AED,100:312E81&text=Dnyaneshwar%20Temkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
@@ -16,10 +15,6 @@
 </p>
 
 <p align="center">
-
-<a href="https://github.com/dnyaneshwar236">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-5B21B6?style=for-the-badge"/>
-</a>
 
 <a href="https://linkedin.com/in/dnyaneshwar-temkar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge"/>
@@ -39,7 +34,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dnyaneshwar236&style=for-the-badge&color=6D28D9)
 ![](https://img.shields.io/github/followers/dnyaneshwar236?style=for-the-badge&color=5B21B6)
-![](https://img.shields.io/github/stars/dnyaneshwar236?style=for-the-badge&color=7C3AED)
 
 </p>
 
@@ -49,7 +43,7 @@
 
 AI & Data Science Engineering student at **R. C. Patel Institute of Technology, Shirpur** focused on building software and AI solutions with practical impact.
 
-Interested in combining software engineering fundamentals, machine learning, analytics, backend systems, and product thinking to create scalable applications and meaningful technology.
+Interested in combining software engineering fundamentals, machine learning, analytics, backend systems, and product thinking.
 
 ### Core Focus
 
@@ -64,11 +58,11 @@ Interested in combining software engineering fundamentals, machine learning, ana
 
 ### Open To
 
-- AI Internship
-- Software Engineering Internship
-- Backend Internship
-- Machine Learning Internship
-- Open Source Collaboration
+- AI Internship  
+- Software Engineering Internship  
+- Backend Internship  
+- Machine Learning Internship  
+- Open Source Collaboration  
 
 ---
 
@@ -76,28 +70,26 @@ Interested in combining software engineering fundamentals, machine learning, ana
 
 ## Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
 </p>
 
 ## Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ## Backend & Databases
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb"/>
 </p>
 
 ## AI • ML • Data
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-
 </p>
 
 <p>
@@ -112,7 +104,7 @@ Interested in combining software engineering fundamentals, machine learning, ana
 
 ## Tooling
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
@@ -122,75 +114,26 @@ Interested in combining software engineering fundamentals, machine learning, ana
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Artificial Intelligence | Learning | AI Concepts & Applications |
+| Artificial Intelligence | Learning | AI Concepts |
 | Machine Learning | Learning | Model Development |
-| Python | Advanced | Development & Automation |
+| Python | Advanced | Automation |
 | Frontend Development | Intermediate | UI Development |
 | Backend Systems | Intermediate | APIs |
-| Data Structures & Algorithms | Learning | Problem Solving |
+| DSA | Learning | Problem Solving |
 | Data Analytics | Intermediate | EDA |
 | Data Processing | Intermediate | Pandas • NumPy |
 
 ---
 
-# Featured Projects
-
-<details>
-
-<summary><b>Mental Health Support Platform</b></summary>
-
-A platform designed to support mental well-being through an accessible and user-focused digital experience.
-
-| Category | Details |
-|---|---|
-| Stack | Python • Flask • HTML • CSS • JavaScript • MySQL |
-| Scale | Full Project |
-| Performance | Optimized |
-| Security | Standard Practices |
-| Impact | Mental Health Awareness |
-| Repository | Pending Upload |
-
-Status: Completed
-
-</details>
-
-<br>
-
-<details>
-
-<summary><b>Women Safety Analytics System</b></summary>
-
-AI-driven public safety and analytics platform.
-
-| Category | Details |
-|---|---|
-| Stack | Python • Flask • MySQL |
-| Scale | Prototype |
-| Performance | Optimized |
-| Security | Privacy Focused |
-| Impact | Community Safety |
-| Repository | Under Development |
-
-Features:
-- SOS Alert
-- Live Location Tracking
-- Analytics Dashboard
-- Safety Hotspot Detection
-
-</details>
-
----
-
 # Experience
 
-### Student Developer  
-Independent Projects • Present
+### Student Developer
 
-- Building AI projects
-- Backend development
-- Frontend integration
-- Problem solving
-- Continuous learning
+- Building AI projects  
+- Backend development  
+- Frontend integration  
+- Problem solving  
+- Continuous learning  
 
 `Python`
 `ML`
@@ -244,7 +187,7 @@ Independent Projects • Present
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar236&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar236&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -280,7 +223,6 @@ Learning:
 
 Building:
   - AI Projects
-  - Portfolio
 
 Exploring:
   - Frontend Development
@@ -291,7 +233,7 @@ Open_To:
   - SWE Internship
   - Backend Internship
   - ML Internship
-````
+```
 
 ---
 
@@ -300,8 +242,10 @@ Open_To:
 <p align="center">
 
 <a href="mailto:dnyaneshwartemkar123@gmail.com">Gmail</a>
-• <a href="https://linkedin.com/in/dnyaneshwar-temkar">LinkedIn</a>
-• <a href="https://github.com/dnyaneshwar236">GitHub</a>
+•
+<a href="https://linkedin.com/in/dnyaneshwar-temkar">LinkedIn</a>
+•
+<a href="https://github.com/dnyaneshwar236">GitHub</a>
 
 </p>
 
@@ -318,4 +262,3 @@ Engineering ideas into reality.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,100:7C3AED"/>
 
 </p>
-```
