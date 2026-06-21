@@ -1,49 +1,321 @@
-# 👋 Hi, I'm Dnyaneshwar Temkar  
-🚀 Building Real-World AI & Data Science Skills  
-🎯 Focused on learning ML, DSA & Backend Development  
+````md
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,35:6D28D9,70:7C3AED,100:312E81&text=Dnyaneshwar%20Temkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=AI+%26+Data+Science+Engineer;Engineering+ideas+into+reality;AI+%7C+ML+%7C+Frontend+%7C+Backend;Building+Real+World+Projects"/>
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/B.Tech-AI%20%26%20DS-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/College-RCPIT-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/dnyaneshwar236">
+<img src="https://img.shields.io/badge/Portfolio-GitHub-5B21B6?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/dnyaneshwar-temkar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge"/>
+</a>
+
+<a href="mailto:dnyaneshwartemkar123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/dnyaneshwar236">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=dnyaneshwar236&style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/dnyaneshwar236?style=for-the-badge&color=5B21B6)
+![](https://img.shields.io/github/stars/dnyaneshwar236?style=for-the-badge&color=7C3AED)
+
+</p>
 
 ---
 
-# 💫 About Me:
-- 🎓 AI & DS Engineering Student  
-- 💡 Interested in AI, Data Analytics & Backend Development  
-- 🏆 Hackathon Participant (Team Vertex)  
-- 🔥 Currently learning & building projects for placements  
+# About
+
+AI & Data Science Engineering student at **R. C. Patel Institute of Technology, Shirpur** focused on building software and AI solutions with practical impact.
+
+Interested in combining software engineering fundamentals, machine learning, analytics, backend systems, and product thinking to create scalable applications and meaningful technology.
+
+### Core Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Frontend Development
+- Backend Engineering
+- Data Analytics
+- Software Development
+- Problem Solving
+
+### Open To
+
+- AI Internship
+- Software Engineering Internship
+- Backend Internship
+- Machine Learning Internship
+- Open Source Collaboration
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# Tech Stack
+
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
+</p>
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+## Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb"/>
+</p>
+
+## AI • ML • Data
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+## Tooling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dnyaneshwar236&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=dnyaneshwar236&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar236&theme=dark&layout=compact)
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Artificial Intelligence | Learning | AI Concepts & Applications |
+| Machine Learning | Learning | Model Development |
+| Python | Advanced | Development & Automation |
+| Frontend Development | Intermediate | UI Development |
+| Backend Systems | Intermediate | APIs |
+| Data Structures & Algorithms | Learning | Problem Solving |
+| Data Analytics | Intermediate | EDA |
+| Data Processing | Intermediate | Pandas • NumPy |
 
 ---
 
-# 🌱 Currently Learning:
-- Data Structures & Algorithms  
-- Machine Learning  
-- Backend Development  
+# Featured Projects
+
+<details>
+
+<summary><b>Mental Health Support Platform</b></summary>
+
+A platform designed to support mental well-being through an accessible and user-focused digital experience.
+
+| Category | Details |
+|---|---|
+| Stack | Python • Flask • HTML • CSS • JavaScript • MySQL |
+| Scale | Full Project |
+| Performance | Optimized |
+| Security | Standard Practices |
+| Impact | Mental Health Awareness |
+| Repository | Pending Upload |
+
+Status: Completed
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>Women Safety Analytics System</b></summary>
+
+AI-driven public safety and analytics platform.
+
+| Category | Details |
+|---|---|
+| Stack | Python • Flask • MySQL |
+| Scale | Prototype |
+| Performance | Optimized |
+| Security | Privacy Focused |
+| Impact | Community Safety |
+| Repository | Under Development |
+
+Features:
+- SOS Alert
+- Live Location Tracking
+- Analytics Dashboard
+- Safety Hotspot Detection
+
+</details>
 
 ---
 
-# 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dnyaneshwar_236)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyaneshwar-temkar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnyaneshwartemkar123@gmail.com)
+# Experience
+
+### Student Developer  
+Independent Projects • Present
+
+- Building AI projects
+- Backend development
+- Frontend integration
+- Problem solving
+- Continuous learning
+
+`Python`
+`ML`
+`Frontend`
+`Backend`
+`Git`
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dnyaneshwar236&icon=0&color=0)](https://visitcount.itsvg.in)
+# Achievements
+
+| Recognition | Details |
+|---|---|
+| Poster Design Competition | Secured 2nd Rank |
+| Engineering Student | AI & DS |
+| Continuous Learning | DSA + AI + Development |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/dnyaneshwar236/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/rcp_fy_24057">
+<img src="https://img.shields.io/badge/CodeChef-Profile-4F46E5?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar236&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=dnyaneshwar236&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar236&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar236&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwar236&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - DSA
+  - Machine Learning
+  - Backend Development
+
+Building:
+  - AI Projects
+  - Portfolio
+
+Exploring:
+  - Frontend Development
+  - Open Source
+
+Open_To:
+  - AI Internship
+  - SWE Internship
+  - Backend Internship
+  - ML Internship
+````
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:dnyaneshwartemkar123@gmail.com">Gmail</a>
+• <a href="https://linkedin.com/in/dnyaneshwar-temkar">LinkedIn</a>
+• <a href="https://github.com/dnyaneshwar236">GitHub</a>
+
+</p>
+
+---
+
+<p align="center">
+
+Engineering ideas into reality.
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,100:7C3AED"/>
+
+</p>
+```
